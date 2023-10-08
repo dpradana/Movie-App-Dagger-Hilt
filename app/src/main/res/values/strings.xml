@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDB App</string>
+    <string name="info_network_error">Please check your connection</string>
+    <string name="info_server_error">Opps, something when wrong</string>
+</resources>
